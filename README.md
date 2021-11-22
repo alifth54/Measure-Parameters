@@ -1,4 +1,4 @@
-# Measure-Parameters
+# Measuring-Parameters
 In this project i want to measure folowing parameters with an Arduino-uno board:
 
 1) Voltage (INA 219)
