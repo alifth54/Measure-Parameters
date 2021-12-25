@@ -10,4 +10,4 @@ In this project i want to measure folowing parameters with an Arduino-uno board:
 
 At firs user should set duration time of measurement. after 5 min if user  doesnt send any thing on serial port duration time will set as difualt(30 min).
 
-i use rtc module in this project to finout time and date and use micro SD card reader to save results of measurements in text file. this text file will be change every day.
+i use RTC(Real Time Clock) module in this project to finout time and date and use micro SD card reader to save results of measurements in text file. this text file will be change every day.
